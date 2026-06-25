@@ -1,0 +1,12 @@
+Heart Disease Prediction Using KNN
+==================================================
+Accuracy: 0.9156
+
+              precision    recall  f1-score   support
+
+           0       0.85      0.73      0.79      2322
+           1       0.93      0.97      0.95      8658
+
+    accuracy                           0.92     10980
+   macro avg       0.89      0.85      0.87     10980
+weighted avg       0.91      0.92      0.91     10980
